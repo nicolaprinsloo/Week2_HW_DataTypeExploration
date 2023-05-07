@@ -10,13 +10,15 @@ let message = "Hello my name is " + firstName + " " + surname + ", I am " + inte
 console.log(message) ;
 
 //Exercise 2
-let numOne =
-let numTwo =
-let numThree =
-let numFour =
+let numOne = 3
+let numTwo = 5
+let numThree = 7
+let numFour = 0
 let answer = 0
 
-let output = numOne + numTwo + numThree + numFour
+let formula = [ numOne + numTwo ] / numThree * numFour
+
+console.log(formula)
 
 //Exercise 3
 let timmy = (15/100) * 10 ;
