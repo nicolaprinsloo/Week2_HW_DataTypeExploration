@@ -16,7 +16,7 @@ let numThree = 7
 let numFour = 0
 let answer = 0
 
-let formula = [ numOne + numTwo ] / numThree * numFour
+let formula = [ numOne + numTwo ] / 5 * 0
 
 console.log(formula)
 
